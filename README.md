@@ -30,7 +30,7 @@ Follow these steps to set up the GIS Cuaca application locally:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-repository-url>
+    git clone git@github.com:AnggaPuspa/CuacaNesia.git
     cd cuaca
     ```
 
